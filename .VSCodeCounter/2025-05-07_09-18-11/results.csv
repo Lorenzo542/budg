@@ -1,0 +1,36 @@
+"filename", "language", "HTML", "JavaScript", "Properties", "JSON", "Markdown", "XML", "CSS", "JavaScript JSX", "comment", "blank", "total"
+"/home/code/Documents/budg/backend/.env", "Properties", 0, 0, 4, 0, 0, 0, 0, 0, 0, 40, 44
+"/home/code/Documents/budg/backend/controllers/authController.js", "JavaScript", 0, 69, 0, 0, 0, 0, 0, 0, 0, 13, 82
+"/home/code/Documents/budg/backend/index.js", "JavaScript", 0, 32, 0, 0, 0, 0, 0, 0, 2, 12, 46
+"/home/code/Documents/budg/backend/lib/utils.js", "JavaScript", 0, 12, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"/home/code/Documents/budg/backend/middleware/authMiddleware.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 0, 5, 22
+"/home/code/Documents/budg/backend/models/Expense.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"/home/code/Documents/budg/backend/models/Income.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 0, 5, 22
+"/home/code/Documents/budg/backend/models/User.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 3, 24
+"/home/code/Documents/budg/backend/package-lock.json", "JSON", 0, 0, 0, 1989, 0, 0, 0, 0, 0, 1, 1990
+"/home/code/Documents/budg/backend/package.json", "JSON", 0, 0, 0, 22, 0, 0, 0, 0, 0, 1, 23
+"/home/code/Documents/budg/backend/routes/authRoutes.js", "JavaScript", 0, 9, 0, 0, 0, 0, 0, 0, 0, 4, 13
+"/home/code/Documents/budg/backend/routes/deleteEntry.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 7, 28
+"/home/code/Documents/budg/backend/routes/expenseRoutes.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 5, 26
+"/home/code/Documents/budg/backend/routes/incomesRoutes.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 2, 5, 28
+"/home/code/Documents/budg/backend/routes/modifyEntry.js", "JavaScript", 0, 35, 0, 0, 0, 0, 0, 0, 0, 8, 43
+"/home/code/Documents/budg/frontend/.vite/deps/_metadata.json", "JSON", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 8
+"/home/code/Documents/budg/frontend/.vite/deps/package.json", "JSON", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/home/code/Documents/budg/frontend/README.md", "Markdown", 0, 0, 0, 0, 7, 0, 0, 0, 0, 6, 13
+"/home/code/Documents/budg/frontend/eslint.config.js", "JavaScript", 0, 32, 0, 0, 0, 0, 0, 0, 0, 2, 34
+"/home/code/Documents/budg/frontend/index.html", "HTML", 13, 0, 0, 0, 0, 0, 0, 0, 0, 1, 14
+"/home/code/Documents/budg/frontend/package-lock.json", "JSON", 0, 0, 0, 4434, 0, 0, 0, 0, 0, 1, 4435
+"/home/code/Documents/budg/frontend/package.json", "JSON", 0, 0, 0, 33, 0, 0, 0, 0, 0, 1, 34
+"/home/code/Documents/budg/frontend/public/vite.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/home/code/Documents/budg/frontend/src/App.css", "CSS", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2
+"/home/code/Documents/budg/frontend/src/App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 25, 0, 8, 33
+"/home/code/Documents/budg/frontend/src/AuthContext.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 28, 0, 7, 35
+"/home/code/Documents/budg/frontend/src/assets/react.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/home/code/Documents/budg/frontend/src/index.css", "CSS", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2
+"/home/code/Documents/budg/frontend/src/main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 12, 0, 2, 14
+"/home/code/Documents/budg/frontend/src/pages/HomePage.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 29, 0, 5, 34
+"/home/code/Documents/budg/frontend/src/pages/LandingPage.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 18, 0, 2, 20
+"/home/code/Documents/budg/frontend/src/pages/LoginPage.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 39, 0, 9, 48
+"/home/code/Documents/budg/frontend/src/pages/SignUpPage.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 45, 0, 11, 56
+"/home/code/Documents/budg/frontend/vite.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 1, 2, 9
+"Total", "-", 13, 330, 4, 6489, 7, 2, 4, 196, 5, 174, 7224

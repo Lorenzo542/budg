@@ -7,17 +7,22 @@ import incomeRoutes from './routes/incomesRoutes.js';
 import expenseRoutes from './routes/expenseRoutes.js';
 import deleteRoutes from './routes/deleteEntry.js';
 import modifyRoutes from './routes/modifyEntry.js';
+import {signup, login, logout, checkAuth} from './controllers/authController.js';
 import authRoutes from './routes/authRoutes.js';
 
 
 
+
 configDotenv();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 const app = express();
 
 // Middleware
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+  origin: 'http://localhost:5173',
+  credentials: true
+}));
 
 // Routes
 
@@ -26,6 +31,7 @@ app.use('/api/income', incomeRoutes);
 app.use('/api/delete', deleteRoutes);
 app.use('/api/modify', modifyRoutes);
 app.use('/api/auth', authRoutes);
+
 
 mongoose.connect(process.env.MONGO_URI, {
   }).then(() => {
